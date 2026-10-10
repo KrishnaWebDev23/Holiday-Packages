@@ -1,11 +1,12 @@
 import React from 'react';
+import HeroImg from '../assets/HeroImg.avif'
 
 export const Hero: React.FC = () => {
   return (
     <section id="home" className="relative min-h-screen w-full bg-slate-950 text-white flex flex-col justify-between">
       {/* Background Image */}
       <img
-        src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=2000&q=80"
+        src={HeroImg}
         alt="Tropical paradise destination"
         className="absolute inset-0 h-full w-full object-cover object-center"
       />

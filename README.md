@@ -3,7 +3,6 @@
 A clean, responsive single-page web application built for exploring curated holiday packages. Designed with a focus on modern user experience, responsive layout structuring, and modular component architecture.
 
 🔗 **Live Demo:** [View Live Website](https://your-deployment-link.vercel.app)  
-📁 **Repository:** [GitHub Repository](https://github.com/your-username/your-repo-name)
 
 ---
 

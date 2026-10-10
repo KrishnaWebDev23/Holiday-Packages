@@ -19,7 +19,7 @@ A clean, responsive single-page web application built for exploring curated holi
 
 ## 🛠️ Tech Stack
 
-- **Frontend Framework:** React 18 (Vite)
+- **Frontend Framework:** React 19 (Vite)
 - **Language:** TypeScript
 - **Styling:** Tailwind CSS
 - **Deployment:** Vercel
